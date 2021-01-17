@@ -1,6 +1,5 @@
 <div>
 <img src="img/nginx.png" width=300 height=100/>
-<div style="display: inline-block; width: 100px;"></div>
 <img src="img/tor.svg" width=200 height=100 />
 </div>
 
