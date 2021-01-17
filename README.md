@@ -1,5 +1,5 @@
 <div>
-<img src="img/nginx.png" width=300 height=100/>
+<img src="img/nginx.png" width=300 height=100 style="margin-right: 50px;"/>
 <img src="img/tor.svg" width=200 height=100 />
 </div>
 
