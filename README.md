@@ -1,6 +1,6 @@
 <div>
   <img src="img/nginx.png" width=30 />
-  <div style="display: inline-flex; width: 50px;"></div>
+  <div style="display: inline-block; width: 50px;"></div>
   <img src="img/tor.svg" width=20 />
 </div>
 
