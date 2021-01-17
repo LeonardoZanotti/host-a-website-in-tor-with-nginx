@@ -1,9 +1,7 @@
-<div style="display: inline-block; width: 10px">
-  <img src="img/nginx.png" />
-</div>
+<div>
+<img src="img/nginx.png" width=300 height=100/>
 <div style="display: inline-block; width: 100px;"></div>
-<div style="display: inline-block; width: 10px">
-  <img src="img/tor.svg" />
+<img src="img/tor.svg" width=200 height=100 />
 </div>
 
 # Host a website in Tor with Nginx
