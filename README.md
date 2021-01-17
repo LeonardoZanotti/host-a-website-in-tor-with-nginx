@@ -1,7 +1,7 @@
-<div style="display: inline-flex; float: left; width: 300px">
+<div style="display: inline-flex; float: left; width: 300px; background-color: #666666;">
   <img src="img/nginx.png" width="300" />
 </div>
-<div style="display: inline-flex; float: right; width: 200px">
+<div style="display: inline-flex; float: right; width: 200px; background-color: #333333;">
   <img src="img/tor.svg" width="200" />
 </div>
 
