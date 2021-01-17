@@ -1,6 +1,6 @@
-<img src="img/nginx.png" width="500" />
+<img src="img/nginx.png" width="300" />
 <div style="display: inline-block; width: 100px;"></div>
-<img src="img/tor.svg" width="300" />
+<img src="img/tor.svg" width="100" />
 
 
 # Host a website in Tor with Nginx
