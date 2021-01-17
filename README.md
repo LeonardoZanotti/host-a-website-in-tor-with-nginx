@@ -1,6 +1,7 @@
-<div style="display: flex">
+<div style="display: inline-flex">
   <img src="img/nginx.png" width="300" />
-  <div style="display: inline-flex; width: 50px; background-color: red"></div>
+</div>
+<div style="display: inline-flex">
   <img src="img/tor.svg" width="200" />
 </div>
 
@@ -73,7 +74,7 @@ http {
 
 Save (CTRL + S) and exit (CTRL + X).
 
-Lets do a test in Ngix to see if all is ok:
+Lets do a test in Nginx to see if all is ok:
 
 ```bash
 $ sudo nginx -t
@@ -185,7 +186,7 @@ HiddenServiceDir /var/lib/tor/nginx/
 HiddenServicePort 80 127.0.0.1:81
 ```
 
-Now, Tor will receive our port 81 and show it on his 80
+Now, Tor will receive our port 81 and show it on his 80.
 
 Just reload and cat the URL again:
 ```bash
