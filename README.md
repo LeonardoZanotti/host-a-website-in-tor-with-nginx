@@ -1,7 +1,7 @@
-<div>
-  <img src="img/nginx.png" width=30 />
-  <div style="display: inline-block; width: 50px;"></div>
-  <img src="img/tor.svg" width=20 />
+<div style="display: flex">
+  <img src="img/nginx.png" width=300 />
+  <div style="display: inline-flex; width: 50px;"></div>
+  <img src="img/tor.svg" width=200 />
 </div>
 
 # Host a website in Tor with Nginx
