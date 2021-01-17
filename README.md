@@ -1,6 +1,6 @@
 <div>
-  <img src="img/nginx.png" width="300" />
   <img src="img/tor.svg" width="200" />
+  <img src="img/nginx.png" width="300" />
 </div>
 
 # Host a website in Tor with Nginx
