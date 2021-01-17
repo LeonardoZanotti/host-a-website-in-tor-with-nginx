@@ -1,7 +1,7 @@
-<div>
-<img src="img/nginx.png" width=300 height=100 style="margin: 50px 100px;"/>
-<img src="img/tor.svg" width=200 height=100 />
+<div style="display: inline-flex; width: 300px; height: 100px; margin: 50px 100px;">
+  <img src="img/nginx.png" width=300 height=100 />
 </div>
+<img src="img/tor.svg" width=200 height=100 />
 
 # Host a website in Tor with Nginx
 How to host a laravel and nuxt dynamic website in Tor using Nginx.
